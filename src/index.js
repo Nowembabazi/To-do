@@ -1,4 +1,3 @@
-import _ from "lodash";
 import "./style.css";
 
 import addedTask from "./modules/class.js";
@@ -13,11 +12,11 @@ const filledTask = document.getElementById("addButton");
 filledTask.addEventListener("click", () => {
   const myTask = document.getElementById("addTask");
   if (myTask.value) {
-    addedTask.taskObject(myTask.value);
-    addedTask.reAssignIndex();
     displayList();
     myTask.value = "";
     checkBox();
+    addedTask.taskObject(myTask.value);
+    addedTask.reAssignIndex();
   } else {
     alert("Kindly fill the task to add");
   }
