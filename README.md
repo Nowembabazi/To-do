@@ -17,7 +17,7 @@ This is a single page application that allows users to keep track of their tasks
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]()
 
 
 ## Getting Started
@@ -31,11 +31,9 @@ To get a local copy up and running follow these simple example steps.
 ## Authors
 
 👤 **Nowembabazi Nickson**
-
-- GitHub: [@Nowembabazi](https://github.com/githubhandle)
-- Twitter: [@Nowembabazi](https://twitter.com/twitterhandle)
-- LinkedIn: [NowembabaziN](https://linkedin.com/in/linkedinhandle)
-
+- GitHub: [@Nowembabazi](https://github.com/Nowembabazi)
+- Twitter: [@NowembabaziN](https://twitter.com/NowembabaziN)
+- LinkedIn: [@NowembabaziNickson](https://www.linkedin.com/in/nowembabazi-nickson-181077247/)
 
 ## 🤝 Contributing
 
